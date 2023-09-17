@@ -1,4 +1,4 @@
-# Second-Repository
+# My-Repository
 - 👋 Hi, I’m my name is Juan Luis Prieto Panadero & my account's name is @JuanLu8947
 - 👀 I’m interested in video games, programming languages, robots, IA, technologies & computer sciences.
 - 🌱 I’m currently learning C & C++
