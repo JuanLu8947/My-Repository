@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on technology industry.
 - 📫 How to reach me:
--  e-mail: jlprietopanadero@gmail.com
--  linkedin: https://www.linkedin.com/in/juanlu-95b237233/
+-  e-mail: @gmail.com
+-  linkedin: https://www.linkedin.com/
 
 <!---
 JuanLu8947/JuanLu8947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
